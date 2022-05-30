@@ -22,3 +22,5 @@ int main()
 
     return 0;
 }
+Enter a string : 2
+2 = 1
